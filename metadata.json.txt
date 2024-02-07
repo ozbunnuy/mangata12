@@ -2,6 +2,6 @@
   "name": "ozbunny",
   "website": "https://github.com/ozbunnuy",
   "description": "node runner",
-  "logo": "https://ibb.co/F8kGbkG",
+  "logo": "https://r.resimlink.com/a_jsE.png",
   "twitter": "https://twitter.com/kazanchunter"
 }
