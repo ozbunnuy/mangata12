@@ -1,0 +1,7 @@
+{
+  "name": "ozbunny",
+  "website": "https://github.com/ozbunnuy",
+  "description": "node runner",
+  "logo": "https://ibb.co/F8kGbkG",
+  "twitter": "https://twitter.com/kazanchunter"
+}
